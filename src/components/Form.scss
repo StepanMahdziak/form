@@ -1,0 +1,30 @@
+.form-field{
+    display: block;
+    margin:  10px auto;
+    box-shadow: 1.2px 0.8px #888888;
+
+   
+    
+} .form-field-button{
+    background-color: #fff0f0;
+    border-radius: 6px;
+    box-shadow: none;
+    &:hover{
+        background-color: #eedfd2;
+    };
+    
+}
+.option{
+    background-color: #eedfd2;
+    border-radius: 6px;
+    background-color: #fff0f0;
+    box-shadow: none;
+}
+.error{
+    display: block;
+    margin:  10px auto; 
+    background-color: #f3e5d8;
+    margin-left: auto;
+    margin-right: auto;
+    width: 011em;
+}
